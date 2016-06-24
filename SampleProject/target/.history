@@ -1,0 +1,24 @@
+console
+test
+compile
+test
+run
+~ compile
+test
+sbt update
+test
+compile
+test
+clear
+~test
+publish
+publish-local
+print
+compile
+test
+print
+compile
+update
+print
+console
+test

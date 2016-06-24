@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.twitter" : [], "com.twitter.sample" : [{"case class" : "com\/twitter\/sample\/SimpleParsed.html", "name" : "com.twitter.sample.SimpleParsed"}, {"class" : "com\/twitter\/sample\/SimpleParser.html", "name" : "com.twitter.sample.SimpleParser"}]};
