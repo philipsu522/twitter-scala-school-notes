@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32m+ SimpleParser should[0m[0m
-[0m[[0minfo[0m] [0m[32m  + work with basic tweet[0m[0m
-[0m[[0minfo[0m] [0m[32m  + reject a non-JSON tweet[0m[0m
-[0m[[0minfo[0m] [0m[32m  + ignore nested content[0m[0m
-[0m[[0minfo[0m] [0m[32m  + fail on partial content[0m[0m
